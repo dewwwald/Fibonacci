@@ -1,0 +1,1 @@
+{"version":3,"file":"galaxy.component.js","sourceRoot":"","sources":["galaxy.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAC1C,wCAAsC,2BAA2B,CAAC,CAAA;AAUlE;IAAA;IAA8B,CAAC;IAR/B;QAAC,gBAAS,CAAC;YACV,QAAQ,EAAE,QAAQ;YAClB,WAAW,EAAE,2BAA2B;YACxC,UAAU,EAAE;gBACX,+CAAqB;aACrB;SACD,CAAC;;uBAAA;IAE4B,sBAAC;AAAD,CAAC,AAA/B,IAA+B;AAAlB,uBAAe,kBAAG,CAAA"}
